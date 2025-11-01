@@ -1,0 +1,5 @@
+A = randn(5)
+A = ones(5)
+A = zeros(5)
+A = eye(5)
+A = magic(5)
