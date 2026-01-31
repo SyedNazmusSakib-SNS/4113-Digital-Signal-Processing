@@ -3,8 +3,8 @@ clc; close all; clear all;
 % --- Initialization ---
 Fs = 1000;          % Sampling frequency
 T = 1/Fs;           % Sampling period
-F1 = 100;           % Frequency of component 1
-F2 = 50;            % Frequency of component 2 (To be removed)
+F1 = 120;           % Frequency of component 1
+F2 = 80;            % Frequency of component 2 (To be removed)
 n = 0:1:Fs/2-1;     % Time vector (500 samples)
 
 % --- Signal Generation ---
